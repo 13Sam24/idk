@@ -1,7 +1,7 @@
 from tkinter import *
 root = Tk()
 root.title('To Do List')
-# i think that this needs to change
+
 def createNewNote():
     newpage = Tk()
     newpage.title('new note')
